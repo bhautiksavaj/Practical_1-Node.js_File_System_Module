@@ -10,6 +10,7 @@ var filename = "";
 var content = "";
 
 var instruction = () => {
+  console.log("\n***********************************************\n");
   console.log("\n 1.create  Directory ..");
   console.log("\n 2.remove Directory ..");
   console.log("\n 3.write file..");
